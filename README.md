@@ -6,15 +6,6 @@
 **Production-grade fundamental analysis engine for India's 92 largest listed companies.**  
 Built end-to-end in Python — ETL · KPI Engine · Screener · Health Scoring · Dashboard · REST API
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
-[![SQLite](https://img.shields.io/badge/SQLite-3.x-003B57?logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Tests](https://img.shields.io/badge/Tests-136%20passing-brightgreen)](reports/pytest_report.html)
-[![License](https://img.shields.io/badge/License-Internal%20Use-orange)](.)
-
-</div>
-
 ---
 
 ## What This Is
